@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "nombre": "Arroz",
+      "precio": 250,
+      "img": "https://www.cocinista.es/download/bancorecursos/recetas/receta-arroz-glutinoso-vapor.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Frijoles",
+      "precio": 300,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAvWlfwPnFLY_i2VEPyXcD4CZimG7sP4ddqzrKkgqyg&s"
+    },
+    {
+      "id": 3,
+      "nombre": "Aceite de Oliva",
+      "precio": 575,
+      "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsi8eGCPr5koieScXLIC6PvZkwO-79e-MCw93XKv9yeQ&s"
+    },
+    {
+      "id": 4,
+      "nombre": "Harina",
+      "precio": 200,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtMcPk1MYFZekeNn_Q7i8I7317V01g9vxKqS0ycO3kK14I1PLs717Jveg0T9tTYM7oeRw&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "nombre": "Leche",
+      "precio": 175,
+      "img": "https://img.freepik.com/fotos-premium/botella-leche-vidrio-cerrado-aislado-sobre-fondo-blanco_93675-124086.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Azúcar",
+      "precio": 400,
+      "img": "https://media.istockphoto.com/id/96634224/es/foto/saco-de-az%C3%BAcar.jpg?s=612x612&w=0&k=20&c=vwdHioYFpr0ihgOwBCSYWLDVf3wUqcYOq6zbMliB4qU="
+    },
+    {
+      "id": 7,
+      "nombre": "Sal",
+      "precio": 150,
+      "img": "https://thumbs.dreamstime.com/b/sal-en-un-saco-aislado-de-fondo-blanco-una-bolsa-yute-227312522.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Café",
+      "precio": 450,
+      "img": "https://media.istockphoto.com/id/1186758333/es/foto/granos-de-caf%C3%A9-tostados-esparcidos-de-la-bolsa-de-arpillera-aislada-en-blanco.jpg?s=612x612&w=0&k=20&c=THMQqsEwBnBMat3MvfCxfZLMn4DNSh6m90kJ6ElIWqM="
+    },
+    {
+      "id": 9,
+      "nombre": "Vinagre",
+      "precio": 325,
+      "img": "https://media.istockphoto.com/id/1368376384/es/vector/vinagre-blanco-en-botella-de-vidrio-aislado-sobre-fondo-blanco-ilustraci%C3%B3n-plana-de-dibujos.jpg?s=612x612&w=0&k=20&c=ulhAQ4MiMeaX5ngMWycguj6GQ7_Z5MvyfpgxG0-D_lU="
+    },
+    {
+      "id": 10,
+      "nombre": "Pasta",
+      "precio": 275,
+      "img": "https://media.istockphoto.com/id/495231784/es/foto/pasta-penne.jpg?s=612x612&w=0&k=20&c=W1Wk4HGgBJeWUZ9aip_5neeLgIJne7vZzMbY8dMBzRA="
+    },
+    {
+      "id": 11,
+      "nombre": "Mantequilla",
+      "precio": 525,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb4giVUWLOu-lYE6K3oXf3iPpQds9EXk4hYijXyeVosQ&s"
+    },
+    {
+      "id": 12,
+      "nombre": "Tomate en lata",
+      "precio": 375,
+      "img": "https://st3.depositphotos.com/32475932/34622/i/450/depositphotos_346225324-stock-photo-aluminum-canned-tomato-isolated-white.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Cereal",
+      "precio": 350,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRdnbqQ_tmzz1feI4TxO5W-A7hIm2A1Dk5ScIIuVlew&s"
+    },
+    {
+      "id": 14,
+      "nombre": "Jabón",
+      "precio": 200,
+      "img": "https://img.freepik.com/foto-gratis/barra-jabon-aislado-sobre-fondo-blanco-cerrar_93675-135013.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Cepillo de dientes",
+      "precio": 150,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvx8_MAddAfxS6W8lWAWpCFSuFQnqtcqoROWPVAjk0YQ&s"
+    },
+    {
+      "id": 16,
+      "nombre": "Papel higiénico",
+      "precio": 300,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHuk6PYIk3PjntGvYicY7BrrE_3fecsI3HNtqkNbgxQ&s"
+    },
+    {
+      "id": 17,
+      "nombre": "Pan",
+      "precio": 175,
+      "img": "https://img.freepik.com/fotos-premium/hogaza-pan-blanco-aislado-sobre-fondo-blanco_488220-8803.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Jugo de naranja",
+      "precio": 225,
+      "img": "https://st2.depositphotos.com/1006839/8428/i/450/depositphotos_84280262-stock-illustration-orange-and-white-juice-box.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Agua mineral",
+      "precio": 100,
+      "img": "https://media.istockphoto.com/id/1032678242/es/foto/agua-en-botella-de-pl%C3%A1stico-sobre-fondo-blanco-aislada.jpg?s=612x612&w=0&k=20&c=77P3SMX4kn5tV6k-sie0xEb626dTFlFS5cm8uYN8DDg="
+    },
+    {
+      "id": 20,
+      "nombre": "Galletas",
+      "precio": 275,
+      "img": "https://media.istockphoto.com/id/146075834/es/foto/galletas-con-pedacitos-de-chocolate.jpg?s=612x612&w=0&k=20&c=p8VP4E9mYPj-tHCXuBftowcWQL6sRC7Ae5ibADW8rx8="
+    }
+  ]

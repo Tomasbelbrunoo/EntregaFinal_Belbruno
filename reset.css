@@ -1,0 +1,201 @@
+/* Reset CSS básico */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Establecer box-sizing en border-box para todos los elementos */
+* {
+  box-sizing: border-box;
+}
+
+/* Normalizar la apariencia del cursor en elementos interactivos */
+a,
+button,
+input,
+select,
+textarea {
+  cursor: pointer;
+}
+
+/* Eliminar decoración de lista en navegadores */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Establecer estilos básicos para el cuerpo */
+body {
+  line-height: 1;
+}
+
+/* Eliminar márgenes externos en navegadores */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+figure,
+ol,
+ul,
+dl {
+  margin: 0;
+}
+
+/* Establecer estilo de fuente agradable para los encabezados */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+/* Limpiar el espacio entre elementos anidados en navegadores */
+address,
+div,
+p {
+  margin-bottom: 0;
+}
+
+/* Asegurar que las imágenes se escalen correctamente en navegadores */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+/* Añadir bordes y eliminar espacios alrededor de las imágenes en navegadores */
+figure {
+  margin: 0;
+}
+
+/* Ajustar márgenes y rellenos en elementos de formulario en navegadores */
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  font-size: 100%;
+}
+
+/* Normalizar las propiedades del formulario */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+}
+
+/* Evitar que los bordes y rellenos cambien la apariencia en navegadores */
+button,
+input,
+select,
+textarea {
+  line-height: normal;
+}
+
+/* Restablecer estilo de formulario en navegadores */
+button,
+input {
+  overflow: visible;
+}
+
+/* Ajustar el estilo de bordes y márgenes de las tablas en navegadores */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
